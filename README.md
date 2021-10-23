@@ -23,10 +23,12 @@
 
 </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luisdotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisdotto" height="30" width="40" /></a>
-</p>
+
+📫 Connect with me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dotto-luis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisdotto/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ldotto46@gmail.com)
 
 <!---
 Dotto-Luis/Dotto-Luis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
