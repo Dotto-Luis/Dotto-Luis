@@ -7,9 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ldotto46](https://github.com/ldotto46)
 
-- 📫 How to reach me **ldotto46@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/luisdotto](www.linkedin.com/in/luisdotto)
 
 [![Luis stats](https://github-readme-stats.vercel.app/api?username=dotto-luis&show_icons=true&theme=tokyonight)](https://github.com/dotto-luis/github-readme-stats)
 
