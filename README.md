@@ -17,9 +17,7 @@
 
 # Interests
 
-[![Data_Science](https://img.shields.io/badge/@Data_Science--green?&logoColor=white)](https://towardsdatascience.com/) [![Machine_Learning](https://img.shields.io/badge/@Machine_Learning--green?&logoColor=white)](https://towardsdatascience.com/) [![Python](https://img.shields.io/badge/@Python--green?&logoColor=white)](https://www.python.org//)
-
-[![@Blockchain](https://img.shields.io/badge/@Blockchain--blue?&logoColor=white)](https://www.blockchain.com/) [![@Smart-Contracts](https://img.shields.io/badge/@Smart_Contracts--blue?&logoColor=white)](https://ethereum.org/en/developers/docs/smart-contracts/) [![@Ethereum](https://img.shields.io/badge/@Ethereum--blue?&logoColor=white)](https://ethereum.org/en)
+[![Data_Science](https://img.shields.io/badge/@Data_Science--green?&logoColor=white)](https://towardsdatascience.com/) [![Machine_Learning](https://img.shields.io/badge/@Machine_Learning--green?&logoColor=white)](https://towardsdatascience.com/) [![Python](https://img.shields.io/badge/@Python--green?&logoColor=white)](https://www.python.org//) [![@Blockchain](https://img.shields.io/badge/@Blockchain--blue?&logoColor=white)](https://www.blockchain.com/) [![@Smart-Contracts](https://img.shields.io/badge/@Smart_Contracts--blue?&logoColor=white)](https://ethereum.org/en/developers/docs/smart-contracts/) [![@Ethereum](https://img.shields.io/badge/@Ethereum--blue?&logoColor=white)](https://ethereum.org/en)
 
 # Stats
 [![Luis stats](https://github-readme-stats.vercel.app/api?username=dotto-luis&show_icons=true&theme=tokyonight)](https://github.com/dotto-luis/github-readme-stats)
