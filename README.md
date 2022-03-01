@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">BBA with passion for data science, cryptoworld and scrum. I like football, wine and learn</h3>
+<h3 align="center">BBA with passion for data science & cryptoworld. I like football, wine and learn</h3>
 
 - 🔭 I’m currently working on [NLP Amazon](https://github.com/ldotto46/NLP_amazon.git)
 
