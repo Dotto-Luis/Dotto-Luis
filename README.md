@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">BBA with passion for data science & cryptoworld. I like football, wine and learn</h3>
 
-- 🔭 I’m currently working on [NYSE](https://github.com/Dotto-Luis/Projects/tree/main/Finance/NYSE) and [Properati](https://github.com/Dotto-Luis/Projects/tree/main/Real%20State/Properarti)
+- 🔭 I’m currently working on [Bank Marketing](https://github.com/Dotto-Luis/Projects/tree/main/Finance/Bank%20Marketing) and [Properati](https://github.com/Dotto-Luis/Projects/tree/main/Real%20State/Properarti)
 
 - 🌱 I’m currently learning **ML** and I’m interested to colaborate with Blockchain or Finance technology projects
 
