@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">BBA with passion for ML. I like football, wine and learn</h3>
+<h3 align="center">BBA with passion for ML</h3>
 
 - 🔭 I’m currently working on [SentimentClassifier-MovieReviews](https://github.com/Dotto-Luis/Projects/tree/main/Communication_Services/SentimentClassifier-MovieReviews) 
 
