@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">BBA with passion for ML</h3>
 
-- 🔭 I’m currently working on [SentimentClassifier-MovieReviews](https://github.com/Dotto-Luis/Projects/tree/main/Communication_Services/SentimentClassifier-MovieReviews) 
+- 🔭 I’m currently working on [Fintech-Advisor-Chatbot](https://github.com/Dotto-Luis/Projects/tree/main/Finance/Fintech-Advisor-Chatbot) 
 
 - 🌱 I’m currently learning **ML** and I’m interested to colaborate with Finance technology projects
 
