@@ -1,33 +1,19 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">BBA with passion for ML</h3>
 
-- 🔭 I’m currently working on [Fintech-Advisor-Chatbot](https://github.com/Dotto-Luis/Projects/tree/main/Finance/Fintech-Advisor-Chatbot) 
-
-- 🌱 I’m currently learning **ML** and I’m interested to colaborate with Finance technology projects
-
-- 👨‍💻 All of my projects are available at [https://github.com/ldotto46](https://github.com/Dotto-Luis/Projects)
-
-<details>
-  <summary>🧰 Toolbox</summary>
- <h3 align="left"> </h3>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /> 
-
-</details>
-
-# Interests
-
-[![Python](https://img.shields.io/badge/@Python--blue?&logoColor=white)](https://www.python.org//) [![Data_Science](https://img.shields.io/badge/@Data_Science--purple?&logoColor=white)](https://towardsdatascience.com/) [![Machine_Learning](https://img.shields.io/badge/@Machine_Learning--purple?&logoColor=white)](https://towardsdatascience.com/) [![@Artificial Intelligence](https://img.shields.io/badge/@AI--purple?&logoColor=white)](https://professionalprograms.mit.edu/blog/technology/artificial-intelligence-engineering/)
-
-# Stats
-[![Luis stats](https://github-readme-stats.vercel.app/api?username=dotto-luis&show_icons=true&theme=tokyonight)](https://github.com/dotto-luis/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotto-luis&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/dotto-luis/github-readme-stats)
+### Business professional applying Machine Learning & AI to solve real-world problems across industries  
 
 
+## 🗂 How I Organize [My Projects](https://github.com/Dotto-Luis/Projects) 👈🏽  
+I structure my portfolio by **industry sectors** using the [GICS (Global Industry Classification Standard)](https://www.msci.com/our-solutions/indexes/gics) — Finance, Healthcare, Consumer Goods, and more.  
+This highlights not just the technology, but the **real-world domain impact** of each solution.  
+
+
+## 🔥 Featured Projects  
+- [OpenAI-Agent-Toolkit](https://github.com/Dotto-Luis/Projects/blob/main/Information_Technology/OpenAI-Agent-Toolkit) – Toolkit for building and deploying LLM-powered automation.  
+- [Credit Risk Model – Finance](https://github.com/Dotto-Luis/Projects/tree/main/Finance/Credit_Risk_Model) – End-to-end ML pipeline predicting loan default, with dataset + evaluation metrics.  
+- [Healthcare NLP](https://github.com/Dotto-Luis/Projects/tree/main/Healthcare/Medical_Notes_Classifier) – Text classification for medical notes using scikit-learn + LLMs.  
+
+---
 
 
 # 📫 Connect with me 
@@ -36,6 +22,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisdotto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ldotto46@gmail.com)
 
+🤝 **Open to Collaborate**  
+Always open to ML-driven projects that make data more actionable and accessible across industries.  
 
 <!---
 Dotto-Luis/Dotto-Luis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
